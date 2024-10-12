@@ -1,2 +1,2 @@
-# kairos
+# MagicOS
 Operating system
